@@ -33,7 +33,7 @@ Commande utilisée pour créer le cluster :
 kind create cluster --config cluster-config.yaml
 ```
 
-![image](https://hackmd.io/_uploads/rJ_dPkpyge.png)
+![image](https://github.com/user-attachments/assets/208cc95a-dbba-42af-8bba-093f8b4a86ae)
 
 
 ### 1.3 Vérification de l'état du cluster
@@ -43,7 +43,8 @@ Pour vérifier l'état du cluster:
 kubectl get nodes
 ```
 
-![image](https://hackmd.io/_uploads/S1b5PkTyxl.png)
+![image](https://github.com/user-attachments/assets/7f7de32b-54fa-4af1-9ce5-f870c134d004)
+
 
 
 ### 1.4 Informations sur le cluster
